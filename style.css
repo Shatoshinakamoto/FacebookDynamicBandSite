@@ -2,3 +2,123 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+.pricing-container {
+    margin: 8rem auto 2rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 90%;
+    border-radius: 12px;
+    color: white;
+    font-family: system-ui, -apple-system, sans-serif;
+    box-sizing: border-box;
+  }
+
+  .pricing-container h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .pricing-container h2 {
+    font-size: 1.5rem;
+    margin: 0.8rem 0;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .pricing-container p {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+    opacity: 0.9;
+    line-height: 1.4;
+  }
+
+  /* Tablet */
+  @media (max-width: 768px) {
+    .pricing-container {
+      margin-top: 4rem;
+      padding: 1.5rem;
+    }
+
+    .pricing-container h1 { font-size: 1.8rem; }
+    .pricing-container h2 { font-size: 1.35rem; }
+    .pricing-container p { font-size: 0.95rem; }
+  }
+
+  /* Small phones (e.g., iPhone SE, older Androids) */
+  @media (max-width: 480px) {
+    .pricing-container {
+      margin-top: 2rem;
+      padding: 1.2rem;
+    }
+
+    .pricing-container h1 {
+      font-size: 1.6rem;
+      font-weight: 600;
+    }
+
+    .pricing-container h2 {
+      font-size: 1.25rem;
+      font-weight: 500;
+    }
+
+    .pricing-container p {
+      font-size: 0.9rem;
+      font-weight: 400;
+    }
+  }
+
+  /* Very small screens ≤320px */
+  @media (max-width: 320px) {
+    .pricing-container {
+      padding: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    .pricing-container h1 {
+      font-size: 1.4rem;
+      font-weight: 600;
+    }
+
+    .pricing-container h2 {
+      font-size: 1.15rem;
+      font-weight: 500;
+    }
+
+    .pricing-container p {
+      font-size: 0.85rem;
+      margin-top: 1.2rem;
+    }
+  }
+
+  /* Ultra-small screens ≤240px */
+  @media (max-width: 240px) {
+    .pricing-container {
+      padding: 0.8rem;
+      margin-top: 1rem;
+      border-radius: 8px;
+    }
+
+    .pricing-container h1 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+
+    .pricing-container h2 {
+      font-size: 1rem;
+      margin: 0.6rem 0;
+      font-weight: 500;
+    }
+
+    .pricing-container p {
+      font-size: 0.75rem;
+      margin-top: 1rem;
+      line-height: 1.35;
+    }
+  }
