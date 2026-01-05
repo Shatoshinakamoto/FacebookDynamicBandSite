@@ -1,0 +1,72 @@
+{
+"contactEmail": "myemail@example.com",
+"contactPhone": 5553552555,
+"coverBackgroundGifEnabled": true,
+"coverBackgroundGifPath": "gifs/4.gif",
+"coverCarouselSpeed": 5000,
+"coverFansBackgroundGifEnabled": true,
+"coverFansBackgroundGifPath": "gifs/9.gif",
+"coverFansCarouselSpeed": 5000,
+"videoBackgroundGifEnabled": true,
+"videoBackgroundGifPath": "gifs/7.gif",
+"videoCycleSpeed": 10000,
+"ourYoutubeVideoEmbeds": [
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm",
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm",
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm"
+],
+"ourBandMembersPhotoPaths": [
+  "ourBandMembers/LeadSinger.jpg",
+  "ourBandMembers/Guitarist.jpg",
+  "ourBandMembers/Drummer.jpg"
+],
+"ourBandMembersNames": [
+  "Tyler",
+  "Guitarist",
+  "Kurtis Garcia"
+],
+"ourBandMembersRoles": [
+  "Lead Singer",
+  "Guitarist",
+  "Drummer"
+],
+"ourBandMembersLinks": [
+  "facebook.com/leadsingers",
+  "facebook.com/guitarists",
+  "facebook.com/drummers"
+],
+"ourPricingBackgroundGifEnabled": true,
+"ourPricingBackgroundGifPath": "mp4/test.gif",
+"ourPricingHours": "2 Hours",
+"ourPricingPrice": "$300",
+"ourSponsors": false,
+"ourSponsorsLogoPaths": [
+  "sponsors/logo_1.png",
+  "sponsors/logo_2.png",
+  "sponsors/logo_3.png",
+  "sponsors/logo_4.png"
+],
+"facebook": "https://facebook.com/test1",
+"instagram": "https://instagram.com/test2",
+"xtwitter": "https://twitter.com/test3",
+"google": "https://google.com/test4",
+"youtube": "https://youtube.com/test5",
+"soundcloud": "https://soundcloud.com/test6",
+"additionalSocialLinks": true,
+"additionalSocialLinksList": [
+ {
+   "link": "https://bandcamp.com",
+   "text": "Bandcamps Profile Page"
+ },
+ {
+   "link": "https://spotify.com",
+   "text": "Spotify Supported"
+ }
+],
+"useEventsJSONFile": true,
+"useEventsFacebookApi": false,
+"facebookAccessToken": ""
+}

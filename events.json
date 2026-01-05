@@ -1,0 +1,33 @@
+{
+  "eventCycleSpeed": 15000,
+  "eventBackgroundGifEnabled": true,
+  "eventBackgroundGifPath": "gifs/5.gif",
+  "events": [
+  {
+    "EventName": "Test",
+    "EventAddress": "1234 address",
+    "EventDate": "12/1/2024",
+    "EventDescription": "Come Out and Have Some Fun!",
+    "EventPicture": "coverPictures/cover.jpg",
+    "EventTickets": false
+  },
+  {
+    "EventName": "Test 2",
+    "EventAddress": "24423 Addresss",
+    "EventDate": "05/20/24",
+    "EventDescription": "Dont Forget To Be Ready To Have A Good Time!",
+    "EventPicture": "coverPictures/cover.jpg",
+    "EventTickets": true,
+    "EventTicketsLink": "https://www.ticketmaster.com",
+    "EventTicketsPrice": "$50"
+  },
+  {
+    "EventName": "Test 3",
+    "EventAddress": "24423 Addresss",
+    "EventDate": "05/1/24",
+    "EventDescription": "Dont Forget To Be Ready To Have A Good Time!",
+    "EventPicture": "coverPictures/cover.jpg",
+    "EventTickets": false
+  }
+  ]
+}
