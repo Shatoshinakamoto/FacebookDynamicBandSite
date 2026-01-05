@@ -34,9 +34,9 @@
   "Drummer"
 ],
 "ourBandMembersLinks": [
-  "facebook.com/leadsingers",
-  "facebook.com/guitarists",
-  "facebook.com/drummers"
+  "https://facebook.com/leadsingers",
+  "https://facebook.com/guitarists",
+  "https://facebook.com/drummers"
 ],
 "ourPricingBackgroundGifEnabled": true,
 "ourPricingBackgroundGifPath": "mp4/test.gif",
