@@ -6,6 +6,9 @@ This is a Simple Bootstrap Website Template made for easy to use modification to
 
 ### `config.json` Explanation
 
+Look into the config.json file to see all the newer possible customizations as well can include static images held and videos as well here hosted on github using github pages!
+Along with the ability to link from other websites such as google drive and more.
+
 The `config.json` file contains configuration settings for various aspects of the website. Here is a detailed explanation of each key and its purpose:
 
 1. **`contactEmail`**: The email address displayed for contacting the band.
